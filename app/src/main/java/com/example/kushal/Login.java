@@ -49,7 +49,7 @@ public class Login extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
-
+                String FullName="Kushal Pawar";
 
                 String username = usernameEditText.getText().toString();
                 String password = passwordEditText.getText().toString();
