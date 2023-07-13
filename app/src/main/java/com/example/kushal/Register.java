@@ -40,7 +40,7 @@ public class Register extends AppCompatActivity {
     private Button registerButton;
 
     private TextView mcreateBtn;
-    private String REGISTER_URL = "https://1b60-223-235-106-189.ngrok-free.app/api/user/post/";
+    private String REGISTER_URL = "https://f12f-122-169-92-59.ngrok-free.app/api/user/post/";
 
 
     private RequestQueue mRequestQueue;
